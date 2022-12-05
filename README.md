@@ -2,7 +2,7 @@
 Декомпозиция интерфейса
 
 
-Декомпозиция
+
 ===
 
 Вы работаете в стартапе, который решил тягаться с самим Яндексом в части предоставления контента. Это, конечно же шутка, но задача нешуточная.
@@ -20,3 +20,4 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5w7in0imigbr467r/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-composition-decomposition/branch/main)
